@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Start-Process \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\Docker Desktop.exe\")",
+      "Bash(\"/mnt/c/Program Files/Docker/Docker/Docker Desktop.exe\")"
+    ]
+  }
+}
